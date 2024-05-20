@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: employees-data
+  profiles:
+    active: test
